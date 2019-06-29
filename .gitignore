@@ -24,7 +24,7 @@ hs_err_pid*
 
 # Maven
 */target/*
-*/mvn/*
+*/.mvn/*
 
 # Eclipse
-*/.setting/*
+*/.settings/*
